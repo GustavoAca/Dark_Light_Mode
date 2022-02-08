@@ -23,7 +23,7 @@ function changeMode(){
                  return
          }
          button.innerHTML = darkMode 
-         h1.innerHTML = lightMode + 'on'
+         h1.innerHTML = lightMode + ' ON'
  }
  
  const darkModeClass = 'dark-mode'
